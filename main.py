@@ -3,7 +3,7 @@ contadore_id = 1  # Contador para asignar IDs únicos
 
 while True:
     print("\nGestión de Helados")
-    print("1. Agregar un helado")
+    print("1. Agregar un Helado")
     print("2. Ver lista de helados")
     print("3. Modificar un helado")
     print("4. Eliminar un helado")
